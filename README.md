@@ -1,1 +1,1 @@
-# sleep-disorder-data-mining
+The goal of this project is to determine cause for various sleep disorders by using machine learning models such as logistic regression, support vector machine (SVM), decision tree, random forest and gradient boosting trees.
